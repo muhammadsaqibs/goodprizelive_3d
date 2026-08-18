@@ -1,2 +1,1 @@
-This is a source assembly marker.
-A Unity Editor version must be selected before final compilation.
+m_EditorVersion: 2022.3.20f1
