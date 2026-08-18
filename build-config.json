@@ -1,0 +1,14 @@
+{
+  "android": {
+    "filename": "GoodPrizeLive.apk",
+    "architecture": "ARM64",
+    "backend": "IL2CPP",
+    "build": "Release",
+    "orientation": "Landscape"
+  },
+  "windows": {
+    "filename": "GoodPrizeLive.exe",
+    "architecture": "x86_64",
+    "build": "Release"
+  }
+}

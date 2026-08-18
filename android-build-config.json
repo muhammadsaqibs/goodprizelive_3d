@@ -1,0 +1,16 @@
+{
+  "productName": "GOOD-PRIZE-LIVE",
+  "packageName": "com.goodprizelive.cricket",
+  "output": "GoodPrizeLive.apk",
+  "platform": "Android",
+  "architecture": "ARM64",
+  "scriptingBackend": "IL2CPP",
+  "buildType": "Release",
+  "orientation": "Landscape",
+  "game": {
+    "format": "T20",
+    "matchType": "single_wicket",
+    "maleRosterIncludingCaptain": 16,
+    "girlsRosterIncludingCaptain": 12
+  }
+}
